@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <img align="right" alt="coding" src="![image](https://github.com/mikuu22/mikuu22/assets/157867566/2ba9652e-c0c4-4f82-9126-e89437ae1415)"></img>
+ <img align="right" alt="coding" width="400" src="[![image](https://github.com/mikuu22/mikuu22/assets/157867566/2ba9652e-c0c4-4f82-9126-e89437ae1415)](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)"></img>
 
 
 <a href="https://instagram.com/@marshaladika22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@marshaladika22" height="30" width="40" /></a>
