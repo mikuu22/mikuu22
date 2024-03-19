@@ -15,8 +15,12 @@
  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=HTML">
 <img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-%23000?style=for-the-badge&logo=HTML">
  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23a95916?style=for-the-badge&logo=HTML&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=HTML&logoColor=white">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+ </a> <img alt="Static Badge" src="https://img.shields.io/badge/PHOTOSHOP-2e9eaf?style=for-the-badge&logo=HTML&logoColor=white">
+ </a><img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-orange?style=for-the-badge&logo=HTML&logoColor=white">
+
+ </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img alt="Static Badge" src="https://img.shields.io/badge/TAILWINDCSS-%235087af?style=for-the-badge&logo=HTML&logoColor=white">
+ </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikuu22&show_icons=true&locale=en&layout=compact" alt="mikuu22" /></p>
 
